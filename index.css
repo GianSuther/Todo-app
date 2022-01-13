@@ -1,0 +1,64 @@
+#main{
+    width: 100%;
+    height: 650px;
+background-color: blue;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+#div{
+    width: 800px; 
+    height: 550px;
+    background-color:lightblue;
+    border-radius: 10px;
+   margin-left: 280px;
+
+}
+#inputData{
+    padding: 20px;
+    /* padding-right: 400px;  */
+     margin-left: 50px; 
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 6px;
+   border: solid 4px blue;
+    width: 75%;
+}
+#butn{
+    padding: 25px 25px 25px 25px;
+    font-size: 20px;
+    margin-left: -15px;
+    /* padding-bottom: 18px; */
+    /* margin-bottom: -500px; */
+    border: lightblue;
+    background-color: blue;
+    border-radius: 6px;
+    color: white;
+}
+#li{
+    padding: 20px;
+    /* padding-right: 400px;  */
+     margin-left: 11px; 
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 6px;
+   border: solid 4px blue;
+    width: 85%;
+    
+    background-color: white;
+    display: flex;
+    
+}
+#span{
+    width: 80%;
+}
+.listtext{
+    background-color: white;
+}
+#img{
+    width: 30px;
+    height: 30px;
+}
